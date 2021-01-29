@@ -7,6 +7,8 @@ Hello welcome to analysis of the titanic dataset. Please find all analysis condu
 
 Any problems/concerns please email: j.stelling2@ncl.ac.uk
 
+___
 *Order of work:*
-- Please open the first file [TitanicAnalysis](TitanicAnalysis.ipynb) this has the full table of contents analysis structure within.
-- After that the next file [Titanic2](Titanic2.ipynb) houses all the modelling and feature selection. 
+- Please open the first file [TitanicAnalysis](TitanicAnalysis.ipynb) this has the full table of contents of the analysis structure included within.
+- After that, the next file [Titanic2](Titanic2.ipynb) houses all the modelling and feature selection and test evaluation. 
+___
