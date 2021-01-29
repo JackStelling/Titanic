@@ -1,4 +1,4 @@
-# Titanic
+# Titanic : Machine Learning from Disaster
 Jupyter Notebook for machine learning methods performed on the titanic dataset.
 ___
 
